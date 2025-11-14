@@ -75,4 +75,5 @@ demo = gr.Interface(
     description="Upload an image of a skin lesion to classify it as Benign or Malignant."
 )
 
+
 demo.launch(share=True)
